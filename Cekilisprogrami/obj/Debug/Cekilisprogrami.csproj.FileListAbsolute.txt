@@ -1,0 +1,10 @@
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\obj\Debug\Cekilisprogrami.csprojAssemblyReference.cache
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\obj\Debug\Cekilisprogrami.Form1.resources
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\obj\Debug\Cekilisprogrami.Properties.Resources.resources
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\obj\Debug\Cekilisprogrami.csproj.GenerateResource.cache
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\obj\Debug\Cekilisprogrami.csproj.CoreCompileInputs.cache
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\bin\Debug\Çekiliş Programı.exe.config
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\bin\Debug\Çekiliş Programı.exe
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\bin\Debug\Çekiliş Programı.pdb
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\obj\Debug\Çekiliş Programı.exe
+C:\Users\osmn_\Source\Repos\Cekilisprogrami\Cekilisprogrami\obj\Debug\Çekiliş Programı.pdb
